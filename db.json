@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "email": "v@gmail.com",
+      "id": "1b42f564-200b-472b-996a-530cd18994e0",
+      "password": "123"
+    },
+    {
+      "email": "t@gmail.com",
+      "id": "3d663959-c646-4044-aeb6-cd758628d1e4",
+      "password": "123"
+    }
+  ],
+
+  "products": [
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Small Fresh Pants",
+      "productPrice": "310.00",
+      "productQuantity": 9329,
+      "productSize": "9",
+      "productCode": "KMF",
+      "id": "1"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Sleek Concrete Tuna",
+      "productPrice": "764.00",
+      "productQuantity": 90910,
+      "productSize": "2",
+      "productCode": "AMD",
+      "id": "2"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Fantastic Fresh Mouse",
+      "productPrice": "159.00",
+      "productQuantity": 38295,
+      "productSize": "6",
+      "productCode": "BAM",
+      "id": "3"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Fantastic Steel Salad",
+      "productPrice": "240.00",
+      "productQuantity": 37883,
+      "productSize": "5",
+      "productCode": "TJS",
+      "id": "4"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Fantastic Fresh Shoes",
+      "productPrice": "925.00",
+      "productQuantity": 12064,
+      "productSize": "5",
+      "productCode": "USD",
+      "id": "5"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Electronic Metal Gloves",
+      "productPrice": "160.00",
+      "productQuantity": 14612,
+      "productSize": "3",
+      "productCode": "SCR",
+      "id": "6"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Fantastic Fresh Fish",
+      "productPrice": "688.00",
+      "productQuantity": 40933,
+      "productSize": "1",
+      "productCode": "TMT",
+      "id": "7"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Recycled Metal Computer",
+      "productPrice": "522.00",
+      "productQuantity": 87196,
+      "productSize": "7",
+      "productCode": "BGN",
+      "id": "8"
+    },
+    {
+      "image": "https://loremflickr.com/640/480/fashion",
+      "productName": "Tasty Plastic Shoes",
+      "productPrice": "433.00",
+      "productQuantity": 46615,
+      "productSize": "1",
+      "productCode": "BND",
+      "id": "9"
+    }
+  ],
+  "usersList": [
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/2.jpg",
+      "email": "Stanton_Spencer56@gmail.com",
+      "name": "Stanton Spencer",
+      "phone": "511-791-4857 x6263",
+      "address": "Vadafort",
+      "userID": "11"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/67.jpg",
+      "email": "Elian6@hotmail.com",
+      "name": "Elian",
+      "phone": "529-390-9836 x0765",
+      "address": "Murraystead",
+      "userID": "2"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/795.jpg",
+      "email": "Jessyca_Schiller@yahoo.com",
+      "name": "JessycaSchiller",
+      "phone": "1-918-674-6809 x01118",
+      "address": "West Allis",
+      "userID": "3"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/843.jpg",
+      "email": "Michele96@hotmail.com",
+      "name": "Michele",
+      "phone": "1-933-876-3596 x2358",
+      "address": "West Aurelio",
+      "userID": "4"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/582.jpg",
+      "email": "Brando89@gmail.com",
+      "name": "Brando",
+      "phone": "230.324.8465",
+      "address": "Julienboro",
+      "userID": "5"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/215.jpg",
+      "email": "Arely61@hotmail.com",
+      "name": "Arely",
+      "phone": "(928) 817-1694",
+      "address": "Maryamville",
+      "userID": "6"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/409.jpg",
+      "email": "Makayla_Abbott@hotmail.com",
+      "name": "Makayla",
+      "phone": "(954) 487-3107 x219",
+      "address": "East Lysannetown",
+      "userID": "7"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/265.jpg",
+      "email": "Lester.Sanford@gmail.com",
+      "name": "Lester",
+      "phone": "1-405-672-8848 x2050",
+      "address": "Surprise",
+      "userID": "8"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/651.jpg",
+      "email": "Edgar.Oberbrunner@gmail.com",
+      "name": "Edgar",
+      "phone": "(245) 266-4774",
+      "address": "Knoxville",
+      "userID": "9"
+    },
+    {
+      "avt": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/125.jpg",
+      "email": "Jace13@yahoo.com",
+      "name": "Jace",
+      "phone": "1-745-653-1895 x08735",
+      "address": "St. Paul",
+      "userID": "10"
+    }
+  ],
+  "orders": [
+    {
+      "date": "2024-07-21T19:07:48.042Z",
+      "customer": "Carmen Hudsen",
+      "phone": "1-217-991-2857 x7543",
+      "orderID": "1"
+    },
+    {
+      "date": "2024-04-18T04:30:04.789Z",
+      "customer": "Maggie Gorczany Jr.",
+      "phone": "964-627-1677",
+      "orderID": "2"
+    },
+    {
+      "date": "2024-04-24T16:14:13.353Z",
+      "customer": "Kathy Lakin Sr.",
+      "phone": "1-491-628-3445",
+      "orderID": "3"
+    },
+    {
+      "date": "2024-03-01T13:17:01.803Z",
+      "customer": "Terry Kuhlman",
+      "phone": "274-404-1548",
+      "orderID": "4"
+    },
+    {
+      "date": "2023-11-11T08:47:45.790Z",
+      "customer": "Ron Lind",
+      "phone": "1-950-472-0504 x66656",
+      "orderID": "5"
+    },
+    {
+      "date": "2023-12-22T19:38:38.481Z",
+      "customer": "Traci Kilback",
+      "phone": "(237) 894-4320 x5694",
+      "orderID": "6"
+    },
+    {
+      "date": "2024-05-11T06:29:04.518Z",
+      "customer": "Jasmine Jones",
+      "phone": "641-747-0869",
+      "orderID": "7"
+    },
+    {
+      "date": "2024-06-04T04:31:36.639Z",
+      "customer": "Mrs. Ramona Adams MD",
+      "phone": "1-543-621-4213",
+      "orderID": "8"
+    },
+    {
+      "date": "2024-05-04T12:23:26.400Z",
+      "customer": "Roland Hand",
+      "phone": "1-616-972-0639 x808",
+      "orderID": "9"
+    },
+    {
+      "date": "2024-07-17T23:30:37.926Z",
+      "customer": "Patrick Hand",
+      "phone": "390-983-7127 x36921",
+      "orderID": "10"
+    }
+  ]
+}
